@@ -1,1 +1,4 @@
-hello vinay .
+changes in demo.txt
+rather than previous
+
+so now i am changing again
